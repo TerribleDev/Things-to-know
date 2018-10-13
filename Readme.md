@@ -28,6 +28,11 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] git :sparkles:
 - [ ] The command line :star:
 - [ ] grep, sed, awk, tmux, vim, htop :star:
+- [ ] Package managers :sparkles:
+- [ ] Compilers :sparkles:
+- [ ] REPL :star:
+- [ ] Debuggers :sparkles:
+- [ ] linters :sparkles:
 
 ## Front end
 
@@ -99,13 +104,6 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Regular Expressions aka regex :sparkles:
 
 
-## Language tools
-
-- [ ] Package managers :sparkles:
-- [ ] Compilers :sparkles:
-- [ ] REPL :star:
-- [ ] Debuggers :sparkles:
-
 
 # Theory
 
@@ -148,9 +146,8 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Configuration as code
 - [ ] Chef or puppet :no_entry_sign:
 - [ ] Cloud management tools (terraform, Azure resource manager, AWS cloud formation templates)
-
-
-
+- [ ] Self-Hosted Build systems (jenkins, cruse control) :star:
+- [ ] Cloud build systems (travisci, appveyor, circleci, azure pipelines) :sparkles:
 
 # JavaScript
 
@@ -175,4 +172,5 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] string interpolation :dizzy:
 - [ ] Object spread :sparkles:
 - [ ] Babel :dizzy:
-- [ ] `let` vs `var`
+- [ ] `let` vs `var` :dizzy:
+- [ ] `eslint` :star:
