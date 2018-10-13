@@ -15,6 +15,9 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] CMS
 - [ ] DevOps
 - [ ] "Batteries Included"
+- [ ] "Time box"
+- [ ] Continuous Intergraton
+- [ ] Continuous Delivery
 
 
 # Frameworks and Technologies
@@ -40,6 +43,9 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] A language that compiles into JavaScript :star:
 - [ ] ajax :sparkles
 - [ ] fetch :sparkles
+- [ ] HTTP status codes
+- [ ] Cookies
+- [ ] HTTP headers
 - [ ] Browser debugging tools (chrome, firefox, ieedge) :dizzy:
 - [ ] Polyfills :dizzy:
 - [ ] Browser compatibility of APIs and features :sparkles: 
@@ -71,12 +77,13 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] SOAP :sparkles:
 - [ ] GraphQL :star:
 - [ ] OData :no_entry_sign:
-- [ ] 
 
 
 # Languages
 
 - [ ] 1 strong typed language (C#, Java, Scala, etc) :sparkles:
+- [ ] 1 dynamic language (javascript, ruby, python, etc)
+- [ ] 1 scripting language (bash, powershell, etc)
 
 
 ## Semantics :dizzy:
@@ -94,7 +101,10 @@ Here is a skill legend, if these are not on line items they are on headers of se
 
 ## Language tools
 
-- [ ] package managers :sparkles:
+- [ ] Package managers :sparkles:
+- [ ] Compilers :sparkles:
+- [ ] REPL :star:
+- [ ] Debuggers :sparkles:
 
 
 # Theory
@@ -107,7 +117,6 @@ Here is a skill legend, if these are not on line items they are on headers of se
   - Binary tree
 - Language Parsers :sparkles:
 - Abstract Syntax Tree :sparkles:
-- Compilers :sparkles:
 - Managed vs non-managed languages :sparkles:
 - [ ] Object Oriented Programming and design :dizzy:
 - [ ] [Software design patterns](https://sourcemaking.com/) (Adapter, factory, facade, etc) :dizzy:
@@ -133,6 +142,13 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Containers :star:
 - [ ] Container orchestrators :star:
 - [ ] Kubernetes :star:
+
+## DevOps :star:
+
+- [ ] Configuration as code
+- [ ] Chef or puppet :no_entry_sign:
+- [ ] Cloud management tools (terraform, Azure resource manager, AWS cloud formation templates)
+
 
 
 
