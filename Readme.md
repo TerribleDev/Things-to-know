@@ -41,8 +41,8 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] 1 current client side framework (React, Angular, Vue) :dizzy:
 - [ ] JavaScript :sparkles:
 - [ ] A language that compiles into JavaScript :star:
-- [ ] ajax :sparkles
-- [ ] fetch :sparkles
+- [ ] ajax :sparkles:
+- [ ] fetch :sparkles:
 - [ ] HTTP status codes
 - [ ] Cookies
 - [ ] HTTP headers
