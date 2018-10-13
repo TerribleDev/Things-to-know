@@ -18,6 +18,8 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] "Time box"
 - [ ] Continuous Intergraton
 - [ ] Continuous Delivery
+- [ ] SCM
+- [ ] VCS
 
 
 # Frameworks and Technologies
@@ -25,6 +27,7 @@ Here is a skill legend, if these are not on line items they are on headers of se
 
 ## Tools
 
+- [ ] Souce Control :sparkles:
 - [ ] git :sparkles:
 - [ ] The command line :star:
 - [ ] grep, sed, awk, tmux, vim, htop :star:
@@ -174,3 +177,15 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Babel :dizzy:
 - [ ] `let` vs `var` :dizzy:
 - [ ] `eslint` :star:
+
+# git
+
+In english you can describe: 
+
+- [ ] A git commit :dizzy:
+- [ ] A git rebase vs merge :dizzy:
+- [ ] A git branch :dizzy:
+- [ ] Forking :sparkles:
+- [ ] Merging :dizzy:
+- [ ] Merge conflicts :sparkles:
+- [ ] Resolving a merge conflict :star:
