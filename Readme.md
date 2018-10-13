@@ -9,36 +9,60 @@ Here is a skill legend, if these are not on line items they are on headers of se
 
 # Frameworks and Technologies
 
+
+## Tools
+
 - [ ] git :sparkles:
 - [ ] The command line :star:
+- [ ] grep, sed, awk, tmux, vim, htop :star:
+
+## Front end
+
+- [ ] HTML :dizzy:
+- [ ] CSS :dizzy:
+- [ ] CSS Selectors :dizzy:
+- [ ] LESS or SCSS :sparkles:
+- [ ] The DOM :star:
+- [ ] JQuery :sparkles:
+- [ ] A 3rd party component library (bootstrap.js, material-ui, etc.) :dizzy:
 - [ ] 1 current client side framework (React, Angular, Vue) :dizzy:
+- [ ] JavaScript :sparkles:
+- [ ] A language that compiles into JavaScript :star:
+
+## Backend
+
 - [ ] 1 current server side framework (C# MVC, ExpressJS, Spring boot) :dizzy:
 - [ ] SQL (Structured Query Language) :sparkles:
 - [ ] 1 Relational database :star:
 - [ ] 1 Non-relational database :star:
-- [ ] JavaScript :sparkles:
-- [ ] A language that compiles into JavaScript :star:
 - [ ] 1 strong typed language (C#, Java, Scala, etc) :sparkles:
-- [ ] HTML :dizzy:
-- [ ] CSS :dizzy:
-- [ ] LESS or SCSS :sparkles:
-- [ ] A 3rd party component library (bootstrap.js, material-ui, etc.) :dizzy:
-
-
 
 
 
 # Language Semantics :dizzy:
 
-- [ ] JavaScript gotchas (== vs ===, NaN vs undefined vs null, etc)
+- [ ] JavaScript gotchas (== vs ===, NaN vs undefined vs null, `this`, etc)
 - [ ] Operators
 - [ ] Methods
 - [ ] Functions
 - [ ] Variables
 - [ ] Annonymous and Lambda functions
 - [ ] Property getters and setters
-- [ ] Object Oriented Programming and design
-- [ ] [Software design patterns](https://sourcemaking.com/) (Adapter, factory, facade, etc)
+- [ ] Generics
 
 
 # Theory
+
+- [ ] Understanding datastuctures, and how to shape data efficently :dizzy:
+  - Array
+  - Stack
+  - Queue
+  - Hashmap/Dictionary
+  - Binary tree
+- Language Parsers :sparkles:
+- Abstract Syntax Tree :sparkles:
+- Compilers :sparkles:
+- Managed vs non-managed languages :sparkles:
+- [ ] Object Oriented Programming and design :dizzy:
+- [ ] [Software design patterns](https://sourcemaking.com/) (Adapter, factory, facade, etc) :dizzy:
+- [ ] BigO for time complexity :star:
