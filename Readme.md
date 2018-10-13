@@ -51,9 +51,9 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] A language that compiles into JavaScript :star:
 - [ ] ajax :sparkles:
 - [ ] fetch :sparkles:
-- [ ] HTTP status codes
-- [ ] Cookies
-- [ ] HTTP headers
+- [ ] HTTP status codes :dizzy:
+- [ ] Cookies :sparkles:
+- [ ] HTTP headers :sparkles:
 - [ ] Browser debugging tools (chrome, firefox, ieedge) :dizzy:
 - [ ] Polyfills :dizzy:
 - [ ] Browser compatibility of APIs and features :sparkles: 
