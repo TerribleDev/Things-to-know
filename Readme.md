@@ -73,7 +73,7 @@ Here is a skill legend, if these are not on line items they are on headers of se
 
 ## APIs
 
-- [ ] REST :dizzy
+- [ ] REST :dizzy:
 - [ ] SOAP :sparkles:
 - [ ] GraphQL :star:
 - [ ] OData :no_entry_sign:
