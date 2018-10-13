@@ -47,7 +47,7 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] JQuery :sparkles:
 - [ ] A 3rd party component library (bootstrap.js, material-ui, etc.) :dizzy:
 - [ ] 1 current client side framework (React, Angular, Vue) :dizzy:
-- [ ] JavaScript :sparkles:
+- [ ] JavaScript :dizzy:
 - [ ] A language that compiles into JavaScript :star:
 - [ ] ajax :sparkles:
 - [ ] fetch :sparkles:
