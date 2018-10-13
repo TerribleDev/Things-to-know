@@ -88,7 +88,9 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Annonymous and Lambda functions
 - [ ] Property getters and setters
 - [ ] Generics
+- [ ] Closures
 - [ ] Regular Expressions aka regex :sparkles:
+
 
 ## Language tools
 
@@ -157,3 +159,4 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] string interpolation :dizzy:
 - [ ] Object spread :sparkles:
 - [ ] Babel :dizzy:
+- [ ] `let` vs `var`
