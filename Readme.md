@@ -116,10 +116,12 @@ Here is a skill legend, if these are not on line items they are on headers of se
   - Queue
   - Hashmap/Dictionary
   - Binary tree
-- Language Parsers :sparkles:
-- Abstract Syntax Tree :sparkles:
-- Managed vs non-managed languages :sparkles:
+- [ ] Language Parsers :sparkles:
+- [ ] Abstract Syntax Tree :sparkles:
+- [ ] Managed vs non-managed languages :sparkles:
 - [ ] Object Oriented Programming and design :dizzy:
+- [ ] Static vs Dynamic typing :dizzy:
+- [ ] Strong vs week type systems :sparkles:
 - [ ] [Software design patterns](https://sourcemaking.com/) (Adapter, factory, facade, etc) :dizzy:
 - [ ] BigO for time complexity :star:
 
