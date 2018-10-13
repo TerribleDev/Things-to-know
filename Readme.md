@@ -2,10 +2,20 @@ Big ol' checklist of things to know. Mostly for my wife whom wants to get into p
 
 Here is a skill legend, if these are not on line items they are on headers of sections
 
-- :no_entry_sign: You shouldn't have to know this
-- :star: You should have basic working knowledge, and know how to get around.
+- :no_entry_sign: You shouldn't have to know this, but its worth knowing about
+- :star: Something you should know of, and its basic applications
 - :sparkles: You should know how this works for most use cases, and be able to execute without bingling
 - :dizzy: You should be a **master** of this topic
+
+# Lingo :dizzy:
+
+- [ ] API
+- [ ] Refactor
+- [ ] Bug
+- [ ] CMS
+- [ ] DevOps
+- [ ] "Batteries Included"
+
 
 # Frameworks and Technologies
 
@@ -28,6 +38,19 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] 1 current client side framework (React, Angular, Vue) :dizzy:
 - [ ] JavaScript :sparkles:
 - [ ] A language that compiles into JavaScript :star:
+- [ ] ajax :sparkles
+- [ ] fetch :sparkles
+- [ ] Browser debugging tools (chrome, firefox, ieedge) :dizzy:
+- [ ] Polyfills :dizzy:
+- [ ] Browser compatibility of APIs and features :sparkles: 
+- [ ] Front end performance stratergies :sparkles:
+  - Bundling
+  - Minification
+  - Compression
+  - Image compression
+  - Lazy loading
+  - Code splitting
+
 
 ## Backend
 
@@ -35,13 +58,29 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] SQL (Structured Query Language) :sparkles:
 - [ ] 1 Relational database :star:
 - [ ] 1 Non-relational database :star:
+
+## Markup formats
+
+- [ ] json :dizzy:
+- [ ] xml :sparkles:
+- [ ] markdown :star:
+
+## APIs
+
+- [ ] REST :dizzy
+- [ ] SOAP :sparkles:
+- [ ] GraphQL :star:
+- [ ] OData :no_entry_sign:
+- [ ] 
+
+
+# Languages
+
 - [ ] 1 strong typed language (C#, Java, Scala, etc) :sparkles:
 
 
+## Semantics :dizzy:
 
-# Language Semantics :dizzy:
-
-- [ ] JavaScript gotchas (== vs ===, NaN vs undefined vs null, `this`, etc)
 - [ ] Operators
 - [ ] Methods
 - [ ] Functions
@@ -49,6 +88,11 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Annonymous and Lambda functions
 - [ ] Property getters and setters
 - [ ] Generics
+- [ ] Regular Expressions aka regex :sparkles:
+
+## Language tools
+
+- [ ] package managers :sparkles:
 
 
 # Theory
@@ -66,3 +110,50 @@ Here is a skill legend, if these are not on line items they are on headers of se
 - [ ] Object Oriented Programming and design :dizzy:
 - [ ] [Software design patterns](https://sourcemaking.com/) (Adapter, factory, facade, etc) :dizzy:
 - [ ] BigO for time complexity :star:
+
+# Infrastructure
+
+## Network
+
+- [ ] OSI model :star:
+- [ ] TCP :dizzy:
+- [ ] HTTP :dizzy:
+- [ ] IP :star:
+- [ ] UDP :star:
+- [ ] Latency :star:
+
+## Components
+
+- [ ] Load Balancer :sparkles:
+- [ ] Virtual Machines :star:
+- [ ] Storage types (magnetic, solid state, SAN, NAS) :star:
+- [ ] Content Delivery Network (CDN) :sparkles:
+- [ ] Containers :star:
+- [ ] Container orchestrators :star:
+- [ ] Kubernetes :star:
+
+
+
+# JavaScript
+
+- [ ] npm :dizzy:
+- [ ] globally installed tools `npm install -g` :dizzy:
+- [ ] yarn :star:
+- [ ] esmodules :dizzy:
+- [ ] commonJS modules :dizzy:
+- [ ] `node_modules` directory :dizzy:
+- [ ] unpkg :star:
+- [ ] JavaScript gotchas :dizzy:
+  - `this`
+  - `=== vs ==`
+  - semicolon insertion
+  - `0 == "0" // true`
+  - `0 === "0" // false`
+- [ ] ES5 vs ES6 (aka ES2015) :dizzy:
+- [ ] features of ES2016 :sparkles:
+- [ ] features of ES2017 :star:
+- [ ] destructuring :dizzy:
+- [ ] ES6 classes :dizzy:
+- [ ] string interpolation :dizzy:
+- [ ] Object spread :sparkles:
+- [ ] Babel :dizzy:
