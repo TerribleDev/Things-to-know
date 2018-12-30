@@ -4,7 +4,7 @@ Here is a skill legend, if these are not on line items they are on headers of se
 
 - :no_entry_sign: You shouldn't have to know this, but its worth knowing about
 - :star: Something you should know of, and its basic applications
-- :sparkles: You should know how this works for most use cases, and be able to execute without bingling
+- :sparkles: You should know how this works for most use cases, and be able to execute with only minimal bingling
 - :dizzy: You should be a **master** of this topic
 
 # Lingo :dizzy:
