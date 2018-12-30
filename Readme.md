@@ -1,4 +1,4 @@
-Big ol' checklist of things to know. Mostly for my wife whom wants to get into programming, but could be for anyone entering. This is mostly focused on a web developer role.
+Big ol' checklist of things to know to become a webdeveloper. Mostly for my wife whom wants to get into programming, but could be for anyone entering. This is mostly focused on a web developer role.
 
 Here is a skill legend, if these are not on line items they are on headers of sections
 
